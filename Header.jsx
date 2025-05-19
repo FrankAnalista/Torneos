@@ -1,0 +1,1 @@
+// Componente de encabezado con título en celeste
